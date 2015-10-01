@@ -19,6 +19,10 @@ html, body{
    font-weight: 100;
  }
 
+ .hundred {
+   width: 100%;
+ }
+
   /* GRID */
  .container {
    margin-right: auto;
