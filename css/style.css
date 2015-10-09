@@ -426,7 +426,7 @@ header .hero {
    padding:20px;
  }
  /* Larger Mobile Devices */
- @media (min-width:460px) {
+@media (min-width:460px) {
    .content {
      padding:1.5em 1%;
      float:right;
